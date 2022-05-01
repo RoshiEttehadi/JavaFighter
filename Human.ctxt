@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Human
+comment1.params=health\ name
+comment1.target=Human(int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+numComments=3

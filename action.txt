@@ -1,0 +1,7 @@
+Punch,Damage,10
+Kick,Damage,20
+Block,Health,50%
+SpecialMove,Health,10
+Cheat, Damage, 40
+
+SHall we assgin health and damage o rjust health?

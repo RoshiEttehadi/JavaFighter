@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpecialMove
+comment1.params=input
+comment1.target=SpecialMove(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=boolean\ isHealth()
+comment4.params=
+comment4.target=int\ getPoint()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
